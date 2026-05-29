@@ -1,0 +1,1352 @@
+{
+  "summary": {
+    "total_section_a_questions": 37,
+    "total_section_bc_questions": 60,
+    "section_a_clusters": 33,
+    "section_bc_clusters": 38,
+    "section_a_clusters_with_repeats": 3,
+    "section_bc_clusters_with_repeats": 15
+  },
+  "SECTION_A_clusters": [
+    {
+      "canonical_question": "What is the difference between network layer delivery and the transport layer delivery?",
+      "frequency": 3,
+      "years": [
+        "2019",
+        "2022",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is the difference between network layer delivery and the transport layer delivery?",
+          "normalized": "difference network layer delivery transport layer delivery",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "List out prime three functionality of transport layer.",
+          "normalized": "out prime functionality transport layer",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        },
+        {
+          "text": "Define delivery in Network Layer.",
+          "normalized": "delivery network layer",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Describe the “ count to infinity problem” with an example.",
+      "frequency": 2,
+      "years": [
+        "2019",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is count-to-infinity problem?",
+          "normalized": "count infinity problem",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Describe the “ count to infinity problem” with an example.",
+          "normalized": "count infinity problem example",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "State difference between HTTP and HTTPS.",
+      "frequency": 2,
+      "years": [
+        "2022",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "State difference between HTTP and HTTPS.",
+          "normalized": "difference http https",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Explain HTTP.",
+          "normalized": "http",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What are header and trailers and how do they get added and removed?",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What are header and trailers and how do they get added and removed?",
+          "normalized": "header trailers they get added removed",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "A large FDDI ring has 100 stations & a token rotation time of 40msec. The token holding time is 10msec. What is the maximum achievable efficiency of the ring?",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "A large FDDI ring has 100 stations & a token rotation time of 40msec. The token holding time is 10msec. What is the maximum achievable efficiency of the ring?",
+          "normalized": "large fddi ring has 100 stations token rotation time 40msec token holding time 10msec maximum achievable efficiency ring",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "If a class B network on the Internet has a subnet mask of 255.255.248.0, what is the maximum number of hosts per subnet?",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "If a class B network on the Internet has a subnet mask of 255.255.248.0, what is the maximum number of hosts per subnet?",
+          "normalized": "class network internet has subnet mask 255 255 248 maximum number hosts per subnet",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is the difference between a user agent (UA) and a mail transfer agent (MTA)?",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is the difference between a user agent (UA) and a mail transfer agent (MTA)?",
+          "normalized": "difference user agent mail transfer agent mta",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is time-to-live or packet lifetime?",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is time-to-live or packet lifetime?",
+          "normalized": "time live packet lifetime",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain the differences between point to point and point to multipoint.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain the differences between point to point and point to multipoint.",
+          "normalized": "differences point point point multipoint",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define bit rate and baud rate.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define bit rate and baud rate.",
+          "normalized": "bit rate baud rate",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Compare OSI with TCP/IP protocol suit.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Compare OSI with TCP/IP protocol suit.",
+          "normalized": "osi tcp protocol suit",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Construct the Polar NRZ-L and NRZ-I schemes for the following Data: 01001110",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Construct the Polar NRZ-L and NRZ-I schemes for the following Data: 01001110",
+          "normalized": "construct polar nrz nrz schemes data 01001110",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Describe piggybacking?",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Describe piggybacking?",
+          "normalized": "piggybacking",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain ICMP BGP protocol and its application in real-world scenarios.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain ICMP BGP protocol and its application in real-world scenarios.",
+          "normalized": "icmp bgp protocol application real world scenarios",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "If a 7-bit hamming code received as 1110101, show that the code word has error. Also, rectify error in this code.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "If a 7-bit hamming code received as 1110101, show that the code word has error. Also, rectify error in this code.",
+          "normalized": "bit hamming code received 1110101 show code word has error rectify error code",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define QoS.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define QoS.",
+          "normalized": "qos",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Discuss about transmission mediums in networking.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Discuss about transmission mediums in networking.",
+          "normalized": "about transmission mediums networking",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What do you understand by network topologies.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What do you understand by network topologies.",
+          "normalized": "you understand network topologies",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain transmission delay in flow control.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain transmission delay in flow control.",
+          "normalized": "transmission delay flow control",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Write a note on round trip time (RTT) in networking.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Write a note on round trip time (RTT) in networking.",
+          "normalized": "round trip time rtt networking",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Discuss the role logical addressing.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Discuss the role logical addressing.",
+          "normalized": "role logical addressing",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define datagrams in switching.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define datagrams in switching.",
+          "normalized": "datagrams switching",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Discuss about the IP ranges of Class A, B, C and D.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Discuss about the IP ranges of Class A, B, C and D.",
+          "normalized": "about ranges class",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain the use of RST flag in TCP header.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain the use of RST flag in TCP header.",
+          "normalized": "rst flag tcp header",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What are the applications of Computer Networks?",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What are the applications of Computer Networks?",
+          "normalized": "applications computer networks",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Write advantages and disadvantages of Mesh Topology.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Write advantages and disadvantages of Mesh Topology.",
+          "normalized": "advantages disadvantages mesh topology",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define fixed and variable size framing.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define fixed and variable size framing.",
+          "normalized": "fixed variable size framing",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain the working of Bridge.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain the working of Bridge.",
+          "normalized": "working bridge",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define Token Bucket.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define Token Bucket.",
+          "normalized": "token bucket",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Write about Registered ports.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Write about Registered ports.",
+          "normalized": "about registered ports",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Differentiate between connection less and connection oriented.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Differentiate between connection less and connection oriented.",
+          "normalized": "connection less connection oriented",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is Telnet?",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is Telnet?",
+          "normalized": "telnet",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define Compression.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define Compression.",
+          "normalized": "compression",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    }
+  ],
+  "SECTION_BC_clusters": [
+    {
+      "canonical_question": "Explain about the TCP header and working of TCP protocoland differentiate between TCP and UDP with frameformat.",
+      "frequency": 5,
+      "years": [
+        "2019",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain about the TCP header and working of TCP protocoland differentiate between TCP and UDP with frameformat.",
+          "normalized": "about tcp header working tcp protocoland tcp udp frameformat",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Differentiate TCP and UDP in context of the header format.",
+          "normalized": "tcp udp context header format",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Write detailed note on “TCP vs UDP”.",
+          "normalized": "detailed tcp udp",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        },
+        {
+          "text": "Define TCP/IP Model in detail.",
+          "normalized": "tcp model detail",
+          "year": "2024",
+          "section": "SECTION B",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        },
+        {
+          "text": "Define TCP features and header in detail.",
+          "normalized": "tcp features header detail",
+          "year": "2024",
+          "section": "SECTION B",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Describe the role of application layer and session layer of OSI model in detail.",
+      "frequency": 4,
+      "years": [
+        "2019",
+        "2022",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is OSI Model? Explain the functions; protocols andservices of each layer?",
+          "normalized": "osi model functions protocols andservices layer",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Discuss encoding types in physical layer of ISO-OSI model.",
+          "normalized": "encoding types physical layer iso osi model",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        },
+        {
+          "text": "Describe the role of application layer and session layer of OSI model in detail.",
+          "normalized": "role application layer session layer osi model detail",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        },
+        {
+          "text": "Name and explain Network Devices on each layer of OSI Model.",
+          "normalized": "network devices layer osi model",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain the working principle of the Congestion Control mechanism with a well-labeled diagram.",
+      "frequency": 3,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain the working principle of the Congestion Control mechanism with a well-labeled diagram.",
+          "normalized": "working principle congestion control mechanism well labeled diagram",
+          "year": "2023",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Describe all the layers of the OSI model with a well-labeled diagram.",
+          "normalized": "all layers osi model well labeled diagram",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Differentiate between various topologies with well labeled diagram.",
+          "normalized": "various topologies well labeled diagram",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain following application layer protocols:  FTP  SMTP  DNS",
+      "frequency": 3,
+      "years": [
+        "2022",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain the following terms: FTP (ii) SMTP (iii) DNS (iv)ARP",
+          "normalized": "terms ftp smtp iii dns arp",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Explain DNS.",
+          "normalized": "dns",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Explain following application layer protocols:  FTP  SMTP  DNS",
+          "normalized": "application layer protocols ftp smtp dns",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "A channel has a bit rate of 20 kbps. The stop and wait protocol with frame size 4500 bits is used. The delay for error detection and sending ACK by the receiver is 0.25 seconds because of a fault. Find the maximum efficiency of the channel if the destination is 30000km away and the speed of the propagation of the signal is 2.8X108 m/s. Find the decrease in efficiency due to the fault.",
+      "frequency": 2,
+      "years": [
+        "2019",
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "A channel has a bit rate of 20 kbps. The stop and wait protocol with frame size 4500 bits is used. The delay for error detection and sending ACK by the receiver is 0.25 seconds because of a fault. Find the maximum efficiency of the channel if the destination is 30000km away and the speed of the propagation of the signal is 2.8X108 m/s. Find the decrease in efficiency due to the fault.",
+          "normalized": "channel has bit rate kbps stop wait protocol frame size 4500 bits used delay error detection sending ack receiver seconds because fault maximum efficiency channel destination 30000km away speed propagation signal 8x108 decrease efficiency due fault",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Define the relationship between transmission delay and propagation delay, if the efficiency is at least 50% in STOP N WAIT protocol.",
+          "normalized": "relationship transmission delay propagation delay efficiency least stop wait protocol",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain error control mechanism in Data link layer and giving example of each method.",
+      "frequency": 2,
+      "years": [
+        "2019",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain ARQ Error Control technique, in brief.",
+          "normalized": "arq error control technique",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Explain error control mechanism in Data link layer and giving example of each method.",
+          "normalized": "error control mechanism data link layer giving example method",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "The IP network 200.198.160.0 is using subnet mask 255.255.255.224. Design the subnets.",
+      "frequency": 2,
+      "years": [
+        "2019",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "The IP network 200.198.160.0 is using subnet mask 255.255.255.224. Design the subnets.",
+          "normalized": "network 200 198 160 subnet mask 255 255 255 224 design subnets",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "The IP network 200.198.160.0 is using subnet mask 255.255.255.224. Draw the subnets.",
+          "normalized": "network 200 198 160 subnet mask 255 255 255 224 draw subnets",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "The following is the dump of a TCP header in hexa decimal format: 05320017 00000001 00000000 500207FF 00000000 What is the sequence number? What is the destination port number? What is the acknowledgment number? What is the window size?",
+      "frequency": 2,
+      "years": [
+        "2019",
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "The following is the dump of a TCP header in hexa decimal format: 05320017 00000001 00000000 500207FF 00000000 What is the sequence number? What is the destination port number? What is the acknowledgment number? What is the window size?",
+          "normalized": "dump tcp header hexa decimal format 05320017 00000001 00000000 500207ff 00000000 sequence number destination port number acknowledgment number window size",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Find out window size and minimum sequence number in sliding window protocol, if Transmission delay (Tt)= 1 ms, Propagation delay (Tp)= 24.5 ms. (ms= milliseconds).",
+          "normalized": "out window size minimum sequence number sliding window protocol transmission delay propagation delay milliseconds",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What do you understand by Quality of service, parameters? List various Quality of service parameters.",
+      "frequency": 2,
+      "years": [
+        "2019",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What do you understand by Quality of service, parameters? List various Quality of service parameters.",
+          "normalized": "you understand quality service parameters various quality service parameters",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Write about Quality-of-Service Parameters.",
+          "normalized": "about quality service parameters",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Write short notes on any two: SMTP TELNET HTTP",
+      "frequency": 2,
+      "years": [
+        "2019",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Write short notes on any two: SMTP TELNET HTTP",
+          "normalized": "smtp telnet http",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        },
+        {
+          "text": "Differentiate between FTP and HTTP.",
+          "normalized": "ftp http",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain CSMA/CD with CSMA/CA with diagram.",
+      "frequency": 2,
+      "years": [
+        "2022",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain CSMA/CD with CSMA/CA with diagram.",
+          "normalized": "csma csma diagram",
+          "year": "2023",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Explain CSMA/CD in detail.",
+          "normalized": "csma detail",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain Asymmetric cryptography. Also, write the steps used in RSA algorithm, demonstrate the transmission of character “F” using RSA.",
+      "frequency": 2,
+      "years": [
+        "2023",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain Asymmetric cryptography. Also, write the steps used in RSA algorithm, demonstrate the transmission of character “F” using RSA.",
+          "normalized": "asymmetric cryptography steps used rsa algorithm demonstrate transmission character rsa",
+          "year": "2023",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Explain Cryptography. Write about RSA Algorithm with example.",
+          "normalized": "cryptography about rsa algorithm example",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define SNMP Protocols and working scenario.",
+      "frequency": 2,
+      "years": [
+        "2023",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define SNMP Protocols and working scenario.",
+          "normalized": "snmp protocols working scenario",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        },
+        {
+          "text": "Explain SNMP in detail.",
+          "normalized": "snmp detail",
+          "year": "2024",
+          "section": "SECTION B",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Assume we want to send a data from S to R and there are 2 routers in between. What will be the total time taken if total number of packets are 5. Data is like: Tp=0 ms, Data size=1000 bytes, BW=1 mbps, Header of the packet=100 bytes.",
+      "frequency": 2,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Calculate the total number of transmissions that are required to send 10 data packets through GBN-3 and every 5th packet is lost.",
+          "normalized": "total number transmissions required send data packets through gbn every 5th packet lost",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        },
+        {
+          "text": "Assume we want to send a data from S to R and there are 2 routers in between. What will be the total time taken if total number of packets are 5. Data is like: Tp=0 ms, Data size=1000 bytes, BW=1 mbps, Header of the packet=100 bytes.",
+          "normalized": "assume want send data there routers will total time taken total number packets data like data size 1000 bytes mbps header packet 100 bytes",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Senders’ data D= 110101, CRC generator polynomial=x3+x+1. Apply CRC algorithm and Perform calculations both at sender and receiver end.",
+      "frequency": 2,
+      "years": [
+        "2022",
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Sender’s data D=11010, CRC generator polynomial= x3+x+1. Apply CRC algorithm and perform calculations both at sender and receiver end.",
+          "normalized": "sender data 11010 crc generator polynomial apply crc algorithm perform calculations both sender receiver end",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        },
+        {
+          "text": "Senders’ data D= 110101, CRC generator polynomial=x3+x+1. Apply CRC algorithm and Perform calculations both at sender and receiver end.",
+          "normalized": "senders data 110101 crc generator polynomial apply crc algorithm perform calculations both sender receiver end",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define topology and explain the advantage and disadvantage of Bus, Star and Ring topologies.",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define topology and explain the advantage and disadvantage of Bus, Star and Ring topologies.",
+          "normalized": "topology advantage disadvantage bus star ring topologies",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is unicast routing? Discuss unicast routingprotocols.",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is unicast routing? Discuss unicast routingprotocols.",
+          "normalized": "unicast routing unicast routingprotocols",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "How is TFTP different from FTP? What three functions can SNMP performto manage network devices?",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "How is TFTP different from FTP? What three functions can SNMP performto manage network devices?",
+          "normalized": "tftp different ftp functions can snmp performto manage network devices",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Encode the data-stream 10011010 using the following encoding scheme: Unipolar Bipolar NRZ-L Bipolar NRZ-I RZ Manchestor Differential Manchestor AMI",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Encode the data-stream 10011010 using the following encoding scheme: Unipolar Bipolar NRZ-L Bipolar NRZ-I RZ Manchestor Differential Manchestor AMI",
+          "normalized": "encode data stream 10011010 encoding scheme unipolar bipolar nrz bipolar nrz manchestor differential manchestor ami",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "A slotted ALOHA network transmits 400-bit frames on a shared channel of 400 kbps. What is the throughput if the system (all stations together) produces – 1000 frames per second 500 frames per second 250 frames per second",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "A slotted ALOHA network transmits 400-bit frames on a shared channel of 400 kbps. What is the throughput if the system (all stations together) produces – 1000 frames per second 500 frames per second 250 frames per second",
+          "normalized": "slotted aloha network transmits 400 bit frames shared channel 400 kbps throughput system all stations together produces 1000 frames per second 500 frames per second 250 frames per second",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Write advantages of Next-generation IPV6 over IPV4.",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Write advantages of Next-generation IPV6 over IPV4.",
+          "normalized": "advantages next generation ipv6 over ipv4",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "How is the BOOTP different from DHCP? What is the purpose of the Domain Name System? Discuss the three main divisions of the domain name space.",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "How is the BOOTP different from DHCP? What is the purpose of the Domain Name System? Discuss the three main divisions of the domain name space.",
+          "normalized": "bootp different dhcp purpose domain system main divisions domain space",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORK-RCS-601.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Name and Explain 4 network devices, and write about transmission Impairment in brief.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Name and Explain 4 network devices, and write about transmission Impairment in brief.",
+          "normalized": "network devices about transmission impairment",
+          "year": "2023",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain the following terms by taking real-world examples: i) Go Back-N ii) Selective repeat.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain the following terms by taking real-world examples: i) Go Back-N ii) Selective repeat.",
+          "normalized": "terms taking real world examples back selective repeat",
+          "year": "2023",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "A bit stream 10011101 is transmitted using x3+1 generator polynomial. Generate the CRC code word for this message.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "A bit stream 10011101 is transmitted using x3+1 generator polynomial. Generate the CRC code word for this message.",
+          "normalized": "bit stream 10011101 transmitted generator polynomial generate crc code word message",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Illustrate the difference between IPv4 and IPv6.",
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Illustrate the difference between IPv4 and IPv6.",
+          "normalized": "illustrate difference ipv4 ipv6",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS-603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Discuss each command in detail used in networking: a- ipconfig b- netstat c- ping d- hostname e‐ tracert",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Discuss each command in detail used in networking: a- ipconfig b- netstat c- ping d- hostname e‐ tracert",
+          "normalized": "command detail used networking ipconfig netstat ping hostname tracert",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "List out and discuss the disadvantages in STOP N WAIT protocol.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "List out and discuss the disadvantages in STOP N WAIT protocol.",
+          "normalized": "out disadvantages stop wait protocol",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Discuss in detail about ICMP role in network layer.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Discuss in detail about ICMP role in network layer.",
+          "normalized": "detail about icmp role network layer",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain distance vector routing (DVR) with working example in detail.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain distance vector routing (DVR) with working example in detail.",
+          "normalized": "distance vector routing dvr working example detail",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Divide the network with IP address 200.1.2.0 into 5 subnets.",
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Divide the network with IP address 200.1.2.0 into 5 subnets.",
+          "normalized": "divide network address 200 into subnets",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "COMPUTER-NETWORKS-KCS603.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain Noisy channel Protocols with explanation and diagram.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain Noisy channel Protocols with explanation and diagram.",
+          "normalized": "noisy channel protocols explanation diagram",
+          "year": "2024",
+          "section": "SECTION B",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define IPv4 header Format in detail.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define IPv4 header Format in detail.",
+          "normalized": "ipv4 header format detail",
+          "year": "2024",
+          "section": "SECTION B",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define various topologies with diagram, features, and pros-cons.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define various topologies with diagram, features, and pros-cons.",
+          "normalized": "various topologies diagram features pros cons",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define any 5 LAN standards.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define any 5 LAN standards.",
+          "normalized": "lan standards",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain all Random-Access protocols.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain all Random-Access protocols.",
+          "normalized": "all random access protocols",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain all Interdomain and Intradomain routings algorithms.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain all Interdomain and Intradomain routings algorithms.",
+          "normalized": "all interdomain intradomain routings algorithms",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define Connection Management. Explain how Three-way handshaking using diagram.",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define Connection Management. Explain how Three-way handshaking using diagram.",
+          "normalized": "connection management way handshaking diagram",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "KCS603-COMPUTER-NETWORKS.pdf"
+        }
+      ]
+    }
+  ]
+}

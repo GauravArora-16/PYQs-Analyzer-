@@ -1,0 +1,727 @@
+{
+  "COMPUTER-NETWORK-RCS-601.pdf": {
+    "source": "COMPUTER-NETWORK-RCS-601.pdf",
+    "year": "2019",
+    "sections": {
+      "SECTION A": [
+        {
+          "question_number": "1",
+          "label": "a",
+          "text": "What are header and trailers and how do they get added and removed?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "b",
+          "text": "A large FDDI ring has 100 stations & a token rotation time of 40msec. The token holding time is 10msec. What is the maximum achievable efficiency of the ring?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "c",
+          "text": "What is the difference between network layer delivery and the transport layer delivery?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "d",
+          "text": "If a class B network on the Internet has a subnet mask of 255.255.248.0, what is the maximum number of hosts per subnet?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "e",
+          "text": "What is count-to-infinity problem?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "f",
+          "text": "What is the difference between a user agent (UA) and a mail transfer agent (MTA)?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "g",
+          "text": "What is time-to-live or packet lifetime?",
+          "sub_questions": []
+        }
+      ],
+      "SECTION B": [
+        {
+          "question_number": "2",
+          "label": "a",
+          "text": "Define topology and explain the advantage and disadvantage of Bus, Star and Ring topologies.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "b",
+          "text": "A channel has a bit rate of 20 kbps. The stop and wait protocol with frame size 4500 bits is used. The delay for error detection and sending ACK by the receiver is 0.25 seconds because of a fault. Find the maximum efficiency of the channel if the destination is 30000km away and the speed of the propagation of the signal is 2.8X108 m/s. Find the decrease in efficiency due to the fault.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "c",
+          "text": "What is unicast routing? Discuss unicast routingprotocols.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "d",
+          "text": "Explain about the TCP header and working of TCP protocoland differentiate between TCP and UDP with frameformat.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "e",
+          "text": "",
+          "sub_questions": [
+            {
+              "label": "i",
+              "text": "How is TFTP different from FTP?"
+            },
+            {
+              "label": "ii",
+              "text": "What three functions can SNMP performto manage network devices?"
+            }
+          ]
+        }
+      ],
+      "SECTION C": [
+        {
+          "question_number": "3",
+          "label": "a",
+          "text": "What is OSI Model? Explain the functions; protocols andservices of each layer?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "3",
+          "label": "b",
+          "text": "Encode the data-stream 10011010 using the following encoding scheme:",
+          "sub_questions": [
+            {
+              "label": "i",
+              "text": "Unipolar"
+            },
+            {
+              "label": "ii",
+              "text": "Bipolar NRZ-L"
+            },
+            {
+              "label": "iii",
+              "text": "Bipolar NRZ-I"
+            },
+            {
+              "label": "iv",
+              "text": "RZ"
+            },
+            {
+              "label": "v",
+              "text": "Manchestor"
+            },
+            {
+              "label": "vi",
+              "text": "Differential Manchestor"
+            },
+            {
+              "label": "vii",
+              "text": "AMI"
+            }
+          ]
+        },
+        {
+          "question_number": "4",
+          "label": "a",
+          "text": "A slotted ALOHA network transmits 400-bit frames on a shared channel of 400 kbps. What is the throughput if the system (all stations together) produces –",
+          "sub_questions": [
+            {
+              "label": "i",
+              "text": "1000 frames per second"
+            },
+            {
+              "label": "ii",
+              "text": "500 frames per second"
+            },
+            {
+              "label": "iii",
+              "text": "250 frames per second"
+            }
+          ]
+        },
+        {
+          "question_number": "4",
+          "label": "b",
+          "text": "Explain ARQ Error Control technique, in brief.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "a",
+          "text": "Write advantages of Next-generation IPV6 over IPV4.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "b",
+          "text": "The IP network 200.198.160.0 is using subnet mask 255.255.255.224. Design the subnets.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "6",
+          "label": "a",
+          "text": "The following is the dump of a TCP header in hexa decimal format: 05320017 00000001 00000000 500207FF 00000000",
+          "sub_questions": [
+            {
+              "label": "i",
+              "text": "What is the sequence number?"
+            },
+            {
+              "label": "ii",
+              "text": "What is the destination port number?"
+            },
+            {
+              "label": "iii",
+              "text": "What is the acknowledgment number?"
+            },
+            {
+              "label": "iv",
+              "text": "What is the window size?"
+            }
+          ]
+        },
+        {
+          "question_number": "6",
+          "label": "b",
+          "text": "What do you understand by Quality of service, parameters? List various Quality of service parameters.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "7",
+          "label": "a",
+          "text": "",
+          "sub_questions": [
+            {
+              "label": "i",
+              "text": "How is the BOOTP different from DHCP?"
+            },
+            {
+              "label": "ii",
+              "text": "What is the purpose of the Domain Name System? Discuss the three main divisions of the domain name space."
+            }
+          ]
+        },
+        {
+          "question_number": "7",
+          "label": "b",
+          "text": "Write short notes on any two:",
+          "sub_questions": [
+            {
+              "label": "i",
+              "text": "SMTP"
+            },
+            {
+              "label": "ii",
+              "text": "TELNET"
+            },
+            {
+              "label": "iii",
+              "text": "HTTP"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "COMPUTER-NETWORKS-KCS-603.pdf": {
+    "source": "COMPUTER-NETWORKS-KCS-603.pdf",
+    "year": "2023",
+    "sections": {
+      "SECTION A": [
+        {
+          "question_number": "1",
+          "label": "a",
+          "text": "Explain the differences between point to point and point to multipoint.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "b",
+          "text": "Define bit rate and baud rate.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "c",
+          "text": "Compare OSI with TCP/IP protocol suit.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "d",
+          "text": "Construct the Polar NRZ-L and NRZ-I schemes for the following Data: 01001110",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "e",
+          "text": "Describe piggybacking?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "f",
+          "text": "Explain ICMP BGP protocol and its application in real-world scenarios.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "g",
+          "text": "If a 7-bit hamming code received as 1110101, show that the code word has error. Also, rectify error in this code.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "h",
+          "text": "Define QoS.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "i",
+          "text": "State difference between HTTP and HTTPS.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "j",
+          "text": "Describe the “ count to infinity problem” with an example.",
+          "sub_questions": []
+        }
+      ],
+      "SECTION B": [
+        {
+          "question_number": "2",
+          "label": "a",
+          "text": "Name and Explain 4 network devices, and write about transmission Impairment in brief.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "b",
+          "text": "Explain CSMA/CD with CSMA/CA with diagram.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "c",
+          "text": "Explain the working principle of the Congestion Control mechanism with a well-labeled diagram.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "d",
+          "text": "Explain the following terms by taking real-world examples: i) Go Back-N ii) Selective repeat.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "e",
+          "text": "Explain Asymmetric cryptography. Also, write the steps used in RSA algorithm, demonstrate the transmission of character “F” using RSA.",
+          "sub_questions": []
+        }
+      ],
+      "SECTION C": [
+        {
+          "question_number": "3",
+          "label": "a",
+          "text": "Describe all the layers of the OSI model with a well-labeled diagram.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "3",
+          "label": "b",
+          "text": "Differentiate between various topologies with well labeled diagram.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "4",
+          "label": "a",
+          "text": "A bit stream 10011101 is transmitted using x3+1 generator polynomial. Generate the CRC code word for this message.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "4",
+          "label": "b",
+          "text": "Explain error control mechanism in Data link layer and giving example of each method.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "a",
+          "text": "Illustrate the difference between IPv4 and IPv6.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "b",
+          "text": "The IP network 200.198.160.0 is using subnet mask 255.255.255.224. Draw the subnets.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "6",
+          "label": "a",
+          "text": "Explain the following terms:",
+          "sub_questions": [
+            {
+              "label": "i",
+              "text": "FTP (ii) SMTP (iii) DNS (iv)ARP"
+            }
+          ]
+        },
+        {
+          "question_number": "6",
+          "label": "b",
+          "text": "Differentiate TCP and UDP in context of the header format.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "7",
+          "label": "a",
+          "text": "Explain DNS.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "7",
+          "label": "b",
+          "text": "Define SNMP Protocols and working scenario.",
+          "sub_questions": []
+        }
+      ]
+    }
+  },
+  "COMPUTER-NETWORKS-KCS603.pdf": {
+    "source": "COMPUTER-NETWORKS-KCS603.pdf",
+    "year": "2022",
+    "sections": {
+      "SECTION A": [
+        {
+          "question_number": "1",
+          "label": "a",
+          "text": "Discuss about transmission mediums in networking.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "b",
+          "text": "What do you understand by network topologies.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "c",
+          "text": "Explain transmission delay in flow control.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "d",
+          "text": "Write a note on round trip time (RTT) in networking.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "e",
+          "text": "Discuss the role logical addressing.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "f",
+          "text": "Define datagrams in switching.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "g",
+          "text": "Discuss about the IP ranges of Class A, B, C and D.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "h",
+          "text": "List out prime three functionality of transport layer.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "i",
+          "text": "Explain the use of RST flag in TCP header.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "j",
+          "text": "Explain HTTP.",
+          "sub_questions": []
+        }
+      ],
+      "SECTION B": [
+        {
+          "question_number": "2",
+          "label": "a",
+          "text": "Discuss encoding types in physical layer of ISO-OSI model.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "b",
+          "text": "Discuss each command in detail used in networking: a- ipconfig b- netstat c- ping d- hostname e‐ tracert",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "c",
+          "text": "List out and discuss the disadvantages in STOP N WAIT protocol.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "d",
+          "text": "Calculate the total number of transmissions that are required to send 10 data packets through GBN-3 and every 5th packet is lost.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "e",
+          "text": "Discuss in detail about ICMP role in network layer.",
+          "sub_questions": []
+        }
+      ],
+      "SECTION C": [
+        {
+          "question_number": "3",
+          "label": "a",
+          "text": "Define the relationship between transmission delay and propagation delay, if the efficiency is at least 50% in STOP N WAIT protocol.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "3",
+          "label": "b",
+          "text": "Find out window size and minimum sequence number in sliding window protocol, if Transmission delay (Tt)= 1 ms, Propagation delay (Tp)= 24.5 ms. (ms= milliseconds).",
+          "sub_questions": []
+        },
+        {
+          "question_number": "4",
+          "label": "a",
+          "text": "Explain distance vector routing (DVR) with working example in detail.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "4",
+          "label": "b",
+          "text": "Sender’s data D=11010, CRC generator polynomial= x3+x+1. Apply CRC algorithm and perform calculations both at sender and receiver end.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "a",
+          "text": "Assume we want to send a data from S to R and there are 2 routers in between. What will be the total time taken if total number of packets are 5. Data is like: Tp=0 ms, Data size=1000 bytes, BW=1 mbps, Header of the packet=100 bytes.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "b",
+          "text": "Explain CSMA/CD in detail.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "6",
+          "label": "a",
+          "text": "Divide the network with IP address 200.1.2.0 into 5 subnets.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "6",
+          "label": "b",
+          "text": "Describe the role of application layer and session layer of OSI model in detail.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "7",
+          "label": "a",
+          "text": "Write detailed note on “TCP vs UDP”.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "7",
+          "label": "b",
+          "text": "Explain following application layer protocols:  FTP  SMTP  DNS",
+          "sub_questions": []
+        }
+      ]
+    }
+  },
+  "KCS603-COMPUTER-NETWORKS.pdf": {
+    "source": "KCS603-COMPUTER-NETWORKS.pdf",
+    "year": "2024",
+    "sections": {
+      "SECTION A": [
+        {
+          "question_number": "1",
+          "label": "a",
+          "text": "What are the applications of Computer Networks?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "b",
+          "text": "Write advantages and disadvantages of Mesh Topology.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "c",
+          "text": "Define fixed and variable size framing.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "d",
+          "text": "Explain the working of Bridge.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "e",
+          "text": "Define delivery in Network Layer.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "f",
+          "text": "Define Token Bucket.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "g",
+          "text": "Write about Registered ports.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "h",
+          "text": "Differentiate between connection less and connection oriented.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "i",
+          "text": "What is Telnet?",
+          "sub_questions": []
+        },
+        {
+          "question_number": "1",
+          "label": "j",
+          "text": "Define Compression.",
+          "sub_questions": []
+        }
+      ],
+      "SECTION B": [
+        {
+          "question_number": "2",
+          "label": "a",
+          "text": "Define TCP/IP Model in detail.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "b",
+          "text": "Explain Noisy channel Protocols with explanation and diagram.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "c",
+          "text": "Define IPv4 header Format in detail.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "d",
+          "text": "Define TCP features and header in detail.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "2",
+          "label": "e",
+          "text": "Explain SNMP in detail.",
+          "sub_questions": []
+        }
+      ],
+      "SECTION C": [
+        {
+          "question_number": "3",
+          "label": "a",
+          "text": "Name and explain Network Devices on each layer of OSI Model.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "3",
+          "label": "b",
+          "text": "Define various topologies with diagram, features, and pros-cons.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "4",
+          "label": "a",
+          "text": "Define any 5 LAN standards.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "4",
+          "label": "b",
+          "text": "Explain all Random-Access protocols.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "a",
+          "text": "Explain all Interdomain and Intradomain routings algorithms.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "5",
+          "label": "b",
+          "text": "Senders’ data D= 110101, CRC generator polynomial=x3+x+1. Apply CRC algorithm and Perform calculations both at sender and receiver end.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "6",
+          "label": "a",
+          "text": "Define Connection Management. Explain how Three-way handshaking using diagram.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "6",
+          "label": "b",
+          "text": "Write about Quality-of-Service Parameters.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "7",
+          "label": "a",
+          "text": "Differentiate between FTP and HTTP.",
+          "sub_questions": []
+        },
+        {
+          "question_number": "7",
+          "label": "b",
+          "text": "Explain Cryptography. Write about RSA Algorithm with example.",
+          "sub_questions": []
+        }
+      ]
+    }
+  }
+}
